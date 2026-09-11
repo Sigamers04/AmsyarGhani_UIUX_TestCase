@@ -1,5 +1,5 @@
 --Selamat Pagi/Siang/Malam--
-  Bapak/Ibu HRD, 
+  Bapak/Ibu HRD/Tim Talent, 
 
 Izin Melampirkan file yang disyaratkan di test case
 1. Link Figma : Berisi Tautan Kehalaman figma Amsyar Ghani Ibrahim
