@@ -3,7 +3,7 @@
 
 Izin Melampirkan file yang disyaratkan di test case
 1. Link Figma : Berisi Tautan Kehalaman figma Amsyar Ghani Ibrahim
-2. Persona : Berisi Statmen User (Imajinasi)
+2. Persona : Berisi Statement User (Imajinasi)
 3. UIUX : Berisi Tampilan High-Fidelity Design
 4. User Flow : Berisi penggambaran skenario pendaftaran outlet baru
 5. Low-Fidelity Wireframe : Berisi Tampilan Low-Fidelity Wireframe
